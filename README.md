@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mohitnegi07
 - 👀 I’m interested in ...hacking ,web app pentesting
 - 🌱 I’m currently learning ...web pentesting
-- 💞️ I’m looking to collaborate on ...bugcrowd and hackerone
+- 💞️ 
 - 📫 How to reach me ...
 
 <!---
